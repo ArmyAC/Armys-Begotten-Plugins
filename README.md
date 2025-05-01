@@ -23,6 +23,8 @@ You need to add 1007-1016 in clockwork/framework/cl_kernel.lua.
 
 Once added, you should be good to go.
 
+You can use /setplayermode to then toggle playermode on/off for an admin's character (or yourself) that you desire.
+
 ## Bounty Text
 Bounty text is a pretty simple plugin - it does exactly what it says. It adds bounty text to characters' heads if they're on the bounty board.
 
