@@ -4,6 +4,8 @@ Some of these are not extensively bug-tested.
 
 I do not upload my edited files with the added hooks because there is a high likelihood that they will be updated over time on main branch and cause issues later on.
 
+Once your hooks are added, just toss the folders in cwbegotten/plugins.
+
 
 ## Playermode
 Playermode is a plugin that was first made on Apocalypse. My version is different from the one that was used on Apoc's. Apoc's was a little better than mine, but I'll update mine to have the same feature list as theirs later on.
