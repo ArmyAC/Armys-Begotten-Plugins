@@ -1,5 +1,7 @@
 A list of my plugins that are free to use. Note that most of these are going to require some level of edits to your code and cannot work standalone. I'll have a guide for each plugin to walk you through it. Most of it is just adding hooks to the code. You can remove the hooks and just put the code in, if you want. I just like making hooks. Plugins will be updated to add more features or bugfixes to them. You can message me at .army on Discord if you need some help or other aid. Please report any bugs or suggestions to me.
 
+I do not upload my edited files with the added hooks because there is a high likelihood that they will be updated over time on main branch and cause issues later on.
+
 
 ## Playermode
 Playermode is a plugin that was first made on Apocalypse. My version is different from the one that was used on Apoc's. Apoc's was a little better than mine, but I'll update mine to have the same feature list as theirs later on.
